@@ -4,8 +4,7 @@
       "name": "BSY-KernelSU",
       "repo": "https://github.com/realme-kernel-opensource/realme_q2pro-AndroidS-kernel-source",
       "branch": "master",
-      "useCustomDefconfig": true,
-      "device": "RMX2173"
+      "device": "realme_q2pro"
     },
     "withKernelSU": true,
     "toolchains": [
